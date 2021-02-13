@@ -3,6 +3,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
+
+## QA part:
+A. The most challenging part is deploy part. Cause I have not used heroku before. 
+
+Solution: I just watch some videos teaching how to deploy application on heroku and follow the steps to deploy the app. However, I got some issues when I do deployment. As I use npm to install dependencies, I have two locakfile (package-lock.json and yarn.lock) in my project. just delete one of them.
+
+B. If taken again. do investgation before use. 
+
+
 ## Demo link:
 
 You can view the project thr: `https://round2-task.herokuapp.com/`
